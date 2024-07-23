@@ -36,6 +36,11 @@ h5 {
   transform: translate(-50%, -50%);
 }
 
+.btn-success, .btn-success:hover, .btn-success:focus, .btn-success:active {
+  background-color: rgb(217, 182, 56) !important;
+  border-color: rgb(217, 182, 56);
+}
+
 .btn, .banner {
   box-shadow: 0 2px 12px rgba(0,6,12,.5);
   -moz-box-shadow: 0 2px 12px rgba(0,6,12,.5);
